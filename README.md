@@ -13,6 +13,3 @@ Site institucional desenvolvido para uma empresa de consultoria empresarial.
 
 O projeto apresenta uma interface moderna e responsiva para uma empresa de consultoria, com informações sobre serviços, diferenciais e formas de contato.
 
-## Desenvolvido por
-
-Rafaela de Sousa
