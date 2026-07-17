@@ -2,6 +2,8 @@
 
 Site institucional desenvolvido para uma empresa de consultoria empresarial.
 
+<img src="imagem_projeto_primeConsulting.png" alt="imagem do projeto">
+
 ## Tecnologias
 
 * HTML5
